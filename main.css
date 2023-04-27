@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+nav {
+    background-color: blue;
+}
+
+#c {
+    color: green;
+}
+
+
+h1 {
+    font-family: "Sigmar", sans-serif;
+}
